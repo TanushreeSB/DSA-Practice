@@ -18,3 +18,10 @@ public:
         return q.empty() ? -1 : q.front();
     }
 };
+
+/*
+Complexity
+- Time complexity: O(n)
+
+- Space complexity: O(n
+*/
